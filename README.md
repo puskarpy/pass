@@ -18,7 +18,7 @@ This is a simple web-based random password generator created using HTML, CSS, an
 
 ## Preview
 
-(https://github.com/puskar26/pass/assets/136556606/51578ea0-2b7c-4326-86be-dcb0496c1ba5)
+(https://github.com/puskarpy/pass/assets/136556606/51578ea0-2b7c-4326-86be-dcb0496c1ba5)
 
 
 ## Technologies Used
